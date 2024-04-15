@@ -1,7 +1,13 @@
 import React from 'react'
 import Layout from '../Components/Layout'
 import '../Styles/Home.css'
-import Hero_page from './Hero_page'
+import HeroPage from './HeroPage'
+import AboutPage from './AboutPage'
+import MenuPage from './MenuPage'
+import ShopPage from './ShopPage'
+import BlogReview from './BlogReview'
+import ContactUs from './ContactUs'
+import PromotionPage from './PromotionPage'
 
 
 
@@ -9,7 +15,13 @@ function Home() {
   return (
     <div>
       <Layout>
-      <Hero_page/>
+      <HeroPage/>
+      <AboutPage/>
+      <MenuPage/>
+      <ShopPage/>
+      <PromotionPage/>
+      <BlogReview/>
+      <ContactUs/>
       </Layout>
     </div>
   )

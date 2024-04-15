@@ -64,7 +64,7 @@
 /* Section2 CSS  */
 
 .about_section {
-  padding-top: 190px;
+  padding-top: 80px;
   padding-bottom: 300px;
   background: url('../assets/about/about-1.jpg') no-repeat center center;
   background-size: cover;
@@ -257,7 +257,7 @@
 
 /* Section 6 CSS */
 .shop_section {
-  padding: 160px  0 0;
+  padding: 100px 0 0;
   background: var(--yellow);
 }
 
@@ -305,7 +305,6 @@
 }
 
 .carousel.slide .carousel-inner .carousel-caption {
-  padding-top: 100px;
   position: relative;
   right: unset;
   left: unset;
@@ -351,7 +350,7 @@
 .contact_section {
   background: url("../assets/footer/banner-1.jpg") no-repeat center center;
   background-size: cover;
-  padding-top: 531px;
+  padding-top: 100px;
   padding-bottom: 100px;
 }
 
