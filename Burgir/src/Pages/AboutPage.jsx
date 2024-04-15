@@ -42,7 +42,7 @@ const AboutPage = () => {
                                 auctor an tempus feugiat dolor lacinia cubilia curae integer
                                 orci congue and metus integer primis in integer metus
                             </p>
-                            <Link to="Section3/" className="btn order_now btn-red">
+                            <Link to="/menu" className="btn order_now btn-red">
                                 Explore Full Menu
                             </Link>
                         </Col>
