@@ -98,11 +98,11 @@ header .roundpoint {
 
 @media (max-width: 992px) {
     header .navbar {
-        background-color: #ffffff8c;
+        background-color: #ffffff;
     }
 
     header .navbar.sticky {
-        background: #ffffff8c;
+        background: #ffffff;
     }
 
     header .sticky .nav-link {
